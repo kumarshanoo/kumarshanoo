@@ -7,6 +7,28 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Languages and Tools
+Python
+
+R
+
+Pandas
+
+Numpy
+
+Numpy
+
+Tensorflow
+
+MySQL
+
+Numpy
+
+Git
+
+GitHub
+
+Visual Studio Code
 <!---
 kumarshanoo/kumarshanoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
