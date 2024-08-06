@@ -8,27 +8,7 @@
 - ⚡ Fun fact: ...
 
 Languages and Tools
-Python
-
-R
-
-Pandas
-
-Numpy
-
-Numpy
-
-Tensorflow
-
-MySQL
-
-Numpy
-
-Git
-
-GitHub
-
-Visual Studio Code
+C C++ CSS3 Java Rust HTML5 Tailwind JavaScript Docker Express JS Mongo DB MySQL Python Flask Pandas MicrosoftSQLServer React Next JS TypeScript React Native Shell Script Git Arch Neovim
 <!---
 kumarshanoo/kumarshanoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
