@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/66f024ac-ef33-4e30-9008-ecb331ba6c6c)
 - 👋 Hi, I’m @kumarshanoo
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and AI
