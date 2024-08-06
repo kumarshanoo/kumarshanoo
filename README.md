@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/66f024ac-ef33-4e30-9008-ecb331ba6c6c)
+![image](https://github.com/user-attachments/assets/89e043f8-a51d-485e-b521-c27d641df916)
 - 👋 Hi, I’m @kumarshanoo
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and AI
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Machine Learning Projects 
 - 📫 How to reach me - You can DM me here.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
